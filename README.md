@@ -12,12 +12,13 @@ Digging User Study Materials and Information
 ### Step 3
 
 * Entry questionnaire
-* Ask participants to write down their computer's IP addresses
+* Ask participants to write down their computer's IP addresses (ipconfig command)
 * Video demo : https://www.youtube.com/playlist?list=PLyCV9FE42dl6IpmZM-9yyfCpFuTcRehN_
 
 ### Step 4
 
 * Three experiment sessions
+* Only ***Chrome*** was tested.
 * There are three types of task sheets that order the three experimental tasks differently.  Please mark the system numbers according to the study setup sheet before distributing to the subejcts.
 * Please record the start/end time of each session in order to distinguish from the non-experiment logs (including training).
 
