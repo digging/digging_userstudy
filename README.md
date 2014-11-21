@@ -19,7 +19,7 @@ Digging User Study Materials and Information
 
 * Three experiment sessions
 * Only ***Chrome*** was tested.
-* There are three types of task sheets that order the three experimental tasks differently.  Please mark the system numbers according to the study setup sheet before distributing to the subejcts.
+* There are three types of task sheets that order the three experimental tasks differently.  Please mark the system numbers according to the study setup sheet (https://docs.google.com/spreadsheets/d/1CmPyfZqNylH5yDL9e51GB5xH5tH5hlOCBxI_yTgGQOg/edit?usp=sharing) before distributing to the subejcts.
 * Please record the start/end time of each session in order to distinguish from the non-experiment logs (including training).
 
 
