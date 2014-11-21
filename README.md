@@ -1,4 +1,7 @@
 Digging User Study Materials and Information
 ============================================
 
-Please see the wiki.
+# Stage 1
+
+# Stage 2
+
