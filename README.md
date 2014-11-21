@@ -26,3 +26,7 @@ Digging User Study Materials and Information
 ### Step 5
 
 * Post quetionnaire
+
+### Log data
+
+/var/www/html/ahn/log.txt
